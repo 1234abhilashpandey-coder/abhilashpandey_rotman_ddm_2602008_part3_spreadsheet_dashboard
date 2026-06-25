@@ -63,9 +63,26 @@ The dashboard includes KPI cards, six business visuals, a filterable chart data 
 - Ritika Choudhury generated the highest revenue among customers (₹95,994).
 
 ## Screenshots included
-Project screenshots are available in:
-- `outputs/screenshots/`
+### 1. Raw Data 
+![Raw_customer](outputs/screenshots/raw_customer.png)
+![Raw_order](outputs/screenshots/raw_order.png)
+![Raw_product](outputs/screenshots/raw_product.png)
 
+### 2. Cleaned Data 
+![Cleaned_customer](outputs/screenshots/cleaned_customer.png)
+![Cleaned_order](outputs/screenshots/cleaned_order.png)
+![Cleaned_product](outputs/screenshots/cleaned_product.png)
+
+### 3. Cleaning Log 
+![Cleaning_log](outputs/screenshots/cleaning_log.png)
+
+### 4. Final Dashboard 
+![Final_dashboard](outputs/screenshots/final_dashboard.png)
+
+### 5. Pivot Table
+![pivot_table1](outputs/screenshots/pivot_table1.png)
+![pivot_table2](outputs/screenshots/pivot_table2.png)
+![pivot_table3](outputs/screenshots/pivot_table3.png)
 The screenshots include raw data, cleaned data, cleaning log, pivot analysis, and dashboard previews.
 
 ## Assumptions made
