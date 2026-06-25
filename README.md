@@ -50,7 +50,7 @@ The completed pivot tables answering all 12 required business questions are avai
 
 ## Dashboard explanation
 The interactive business dashboard is available in:
-- `dashboard/business_dashboard.xlsx`
+![Raw_customer](dashboard/business_dashboard.xlsx)
 
 The dashboard includes KPI cards, six business visuals, a filterable chart data sheet, and insight annotations.
 
